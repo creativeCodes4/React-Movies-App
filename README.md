@@ -1,5 +1,9 @@
 # Movie Search App Using React
 
+---
+
+![image](./screenshot.png)
+
 ## Available Scripts
 
 In order to start working with this Repo:
